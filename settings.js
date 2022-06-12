@@ -30,7 +30,7 @@
   global.packname = 'MoonBot' // Sticker Weem
   global.author = 'Moon' // Sticker Weem
   global.webme = 'https://nekopoi.care' // Ganti Sama Web Mu
-  global.linkgroup = 'https://chat.whatsapp.com/HZhLynp6E9QKNrRFtUp26T' // Ganti Sama Link Gc Mu
+  global.linkgroup = 'https://chat.whatsapp.com/HX5ceerf4oZ3Eld0osiFqH' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
   global.youtube = 'https://youtube.com' // Ganti Sama Link Yt Mu
   global.github = 'https://github.com' // Ganti Sama Link Github Mu
